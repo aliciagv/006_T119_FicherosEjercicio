@@ -11,7 +11,7 @@ import com.cice.fichero.business.Fichero;
  *
  * @author cice
  */
-public class Main {
+public class Ejercicio1 {
 
     /**
      * @param args the command line arguments
